@@ -2,7 +2,7 @@ This Project is Made using Asp dotnet web api using clean Architecture .THis pro
 
 Features
 1. User Authentication and Authorization
-Description: Implemented user authentication and authorization using JSON Web Tokens (JWT) and OAuth 2.0. Users can sign up, log in, and access protected routes based on their role (e.g., admin, regular user).
+Description: Implemented user authentication and authorization using JSON Web Tokens (JWT) and OAuth 2.0. Users can sign up, log in, and access protected routes based on their role (e.g., admin, blogger).
 Technologies Used:
 JSON Web Tokens (JWT)
 OAuth 2.0
