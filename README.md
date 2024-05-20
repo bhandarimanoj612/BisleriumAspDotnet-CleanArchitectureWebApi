@@ -1,4 +1,4 @@
-This Project is Made using Asp dotnet web api using clean Architecture .THis project is similar to  Reddit clone.I have used my all knowlege to make it simlar to reddit .
+This Project is Made using Asp dotnet web api using clean Architecture .This project is similar to  Reddit clone.I have used my all knowlege to make it simlar to reddit .
 
 Features
 1. User Authentication and Authorization
